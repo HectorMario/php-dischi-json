@@ -1,0 +1,26 @@
+.ms-color-main{
+    background-color: #1D2D3C;
+}
+
+.ms-color-card{
+    background-color: #112030;
+    color: #fff;
+}
+
+.ms-container{
+    background-color: rgb(17, 32, 49, .9);
+    height: calc(100vh - 80px);
+    width: 100%;
+}
+
+.container-hight{
+    height: 100vh;
+}
+
+.ms-color-header{
+    background-color: #06131F;
+}
+
+.container-header{
+    height: 80px;
+}
